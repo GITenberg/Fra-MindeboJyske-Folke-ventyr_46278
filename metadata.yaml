@@ -1,0 +1,38 @@
+_repo: Fra-MindeboJyske-Folke-ventyr_46278
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46278-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kristensen, Evald Tang
+    aliases:
+    - Kristensen, Ewald Tang
+    - Tang Kristensen, Evald
+    birthdate: 1843
+    deathdate: 1929
+    gutenberg_agent_id: '43695'
+    url: http://www.gutenberg.org/2009/agents/43695
+description: ''
+gutenberg_issued: '2014-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46278'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk literature, Danish -- Denmark -- Jutland'
+- !lcsh 'Folklore -- Denmark -- Jutland'
+- !lcc 'GR'
+tableOfContents: Per Vinters Skjorte -- Prinsessen i Arabien -- Per Degn og Præstens
+  Moder -- Den æggelystne Præst -- Et andet Sind -- Moderens Formaning -- Prinsessen
+  i Højen -- Mit Ophold paa det forønskede Slot -- Kikkert, Taske og Hest -- Den forskudte
+  Dronning -- De tre Lærdomme -- Ræven paa Fangst -- Den dristige Skrædder -- Snedkerens
+  Hævn -- Røverslottet -- Flugten fra Trolden -- Jomfru Nøggel -- De gode Hjælpere
+  -- Hesten Blank -- Dug, Faar og Kølle -- Kjællingens gode Raad -- Ræven, der blev
+  narret -- Det fundne Barn -- Det glemte Løsen -- De tre Ønsker -- Det stærke Øl
+  -- Syner i Spejlet -- Præstens Lig -- Den kloge Dronning -- Efterskrift.
+title: 'Fra Mindebo: Jyske Folkeæventyr'
+url: http://www.gutenberg.org/ebooks/46278
