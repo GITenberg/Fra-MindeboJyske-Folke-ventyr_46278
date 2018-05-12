@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '43695'
     url: http://www.gutenberg.org/2009/agents/43695
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46278#Fra-MindeboJyske-Folke-ventyr
 gutenberg_issued: '2014-07-14'
 gutenberg_type: Text
 identifiers:
